@@ -1,0 +1,21 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Talca",
+  "sala": "",
+  "fecha": "22 de septiembre de 2025",
+  "rol": "RIT N° I-41-2025, RUC N° 25-4-0698913-8",
+  "ciudad": "Talca",
+  "tipo recurso": "Reclamo",
+  "Libro": "",
+  "Caratulado": "Hotelera del Maule SPA con Inspección Provincial del Trabajo Talca",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Reclamo de multa administrativa",
+  "legislacion": "Artículos 503, 505 bis, 506, 506 ter del Código del Trabajo; Artículo 23 del DFL N°2 de 1967; Artículos 415, 420, 453, 454, 456, 457, 459 del Código del Trabajo",
+  "parte_recurrente": "Hotelera del Maule SPA",
+  "parte_recurrida": "Inspección Provincial del Trabajo Talca",
+  "resumen_documento": "El tribunal rechazó el reclamo de Hotelera del Maule SPA contra la Inspección del Trabajo de Talca respecto de una multa administrativa. La empresa alegaba problemas técnicos al cumplir un curso de sustitución de multa, pero no acreditó el impedimento. Se ratifica la multa con incremento del 25% y se condena en costas a la reclamante.",
+  "ministros": ["Carolina Ivonne Saavedra Morales"],
+  "Ministro redactor": "Carolina Ivonne Saavedra Morales",
+  "voto_disidente": false,
+  "observaciones": "Se condena en costas a la parte reclamante por $300.000."
+}

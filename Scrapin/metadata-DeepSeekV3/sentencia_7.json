@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Temuco",
+  "sala": "",
+  "fecha": "16 de septiembre de 2025",
+  "rol": "RIT O-236-2025",
+  "ciudad": "Temuco",
+  "tipo_recurso": "Declaración de existencia de relación laboral, despido injustificado y cobro de prestaciones",
+  "libro": "",
+  "caratulado": "Marcelo Andrés San Martín Villalba con Municipalidad de Vilcún",
+  "accion_documento": "Acoger en parte",
+  "materia": "Laboral",
+  "subMateria": "Reconocimiento de relación laboral y despido injustificado",
+  "legislacion": "Artículos 1, 4, 5, 7, 8, 63, 168, 172, 173, 446, 456, 459, 496 del Código del Trabajo; Artículo 4 de la Ley 18.883",
+  "parte_recurrente": "Marcelo Andrés San Martín Villalba",
+  "parte_recurrida": "Municipalidad de Vilcún",
+  "resumen_documento": "El tribunal declara la existencia de relación laboral entre el actor y la municipalidad desde octubre 2023 hasta diciembre 2024, acogiendo el despido injustificado y ordenando el pago de remuneraciones adeudadas, indemnizaciones por aviso previo, años de servicio y feriado legal. Se rechaza la nulidad del despido por no pago de cotizaciones previsionales.",
+  "ministros": ["Ricardo Erick Larenas Bustos"],
+  "voto_disidente": false,
+  "observaciones": "El juez aplica el principio de primacía de la realidad para calificar la relación como laboral pese a los contratos de honorarios, considerando la subordinación, jornada fija y continuidad en los servicios."
+}

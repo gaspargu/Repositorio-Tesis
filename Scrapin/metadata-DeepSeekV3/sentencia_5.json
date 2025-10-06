@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Arica",
+  "sala": null,
+  "fecha": "16 de septiembre de 2025",
+  "rol": "T-87-2025",
+  "ciudad": "Arica",
+  "tipo_recurso": "Tutela Laboral",
+  "libro": null,
+  "caratulado": "ROGER RODRIGO BELLO BELLO con SERVICIO LOCAL DE EDUCACION PUBLICA CHINCHORRO",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Tutela de derechos fundamentales con ocasión del despido",
+  "legislacion": "Artículos 485, 487, 489, 490, 493 del Código del Trabajo; Ley N° 18.834 (Estatuto Administrativo); Ley N° 21.040 (Sistema de Educación Pública); Artículos 19 N°1 y N°16 de la Constitución Política",
+  "parte_recurrente": "ROGER RODRIGO BELLO BELLO",
+  "parte_recurrida": "SERVICIO LOCAL DE EDUCACION PUBLICA CHINCHORRO",
+  "resumen_documento": "Se rechaza demanda de tutela laboral por vulneración de derechos fundamentales. El trabajador funcionario público a contrata fue desvinculado por no renovación de su contrato. El tribunal establece que la relación se rigió por el Estatuto Administrativo, no hubo indicios de vulneración de derechos, y la decisión de no renovar fue legal y proporcionada.",
+  "ministros": ["Juez redactor: Fernando González Morales"],
+  "voto_disidente": false,
+  "observaciones": "Se condena en costas al demandante por $450.000 por estimar la demanda temeraria y carente de sustento legal. Se rechaza la excepción de prescripción pero se desestima la declaración de contrato de trabajo pretendida."
+}

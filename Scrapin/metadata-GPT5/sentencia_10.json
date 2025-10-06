@@ -1,0 +1,20 @@
+{
+  "corte": "Primer Juzgado de Letras del Trabajo de Santiago",
+  "sala": "",
+  "fecha": "15 de septiembre de 2025",
+  "rol": "RIT O-2388-2024 (acumulado O-2614-2024), RUC 24-4-0563234-5",
+  "ciudad": "Santiago",
+  "tipo recurso": "Demanda laboral por despido indirecto (autodespido) y cobro de prestaciones",
+  "Libro": "",
+  "Caratulado": "Cutolo Zerpa, Claudia y Paduany Manzanares, Jornellys con Gestión y Administración Cenit Ltda.",
+  "accion_documento": "Acoger demanda",
+  "materia": "Laboral",
+  "subMateria": "Despido indirecto (autodespido), feriado proporcional y cobro de prestaciones laborales",
+  "legislacion": "Artículos 1, 2, 42, 45, 63, 71, 160, 162, 171, 425 y siguientes, 453, 454 y siguientes, 173 del Código del Trabajo; artículo 1698 del Código Civil",
+  "parte_recurrente": "Claudia Cutolo Zerpa y Jornellys Paduany Manzanares",
+  "parte_recurrida": "Gestión y Administración Cenit Ltda., representada por Juan Pinto Poehls",
+  "resumen_documento": "El tribunal acogió la demanda de Claudia Cutolo y Jornellys Paduany contra Cenit Ltda., declarando que el autodespido fue ajustado a derecho por incumplimientos graves del empleador. Se ordenó pagar indemnización sustitutiva, años de servicio y recargo legal a ambas trabajadoras, además de feriado proporcional a Paduany. Se rechazaron otras prestaciones solicitadas, incluyendo semana corrida y diferencias de feriado.",
+  "ministros": ["Mauricio Guajardo Espinoza (Juez Titular)"],
+  "voto_disidente": false,
+  "observaciones": "El fallo descartó la aplicación de semana corrida y rechazó la denuncia de acoso laboral por falta de prueba suficiente, aunque reconoció la existencia de malos tratos aislados."
+}

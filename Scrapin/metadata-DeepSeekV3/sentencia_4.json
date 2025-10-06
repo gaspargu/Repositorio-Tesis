@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Diego de Almagro",
+  "sala": null,
+  "fecha": "16 de septiembre de 2025",
+  "rol": "O-32-2024",
+  "ciudad": "Diego de Almagro",
+  "tipo_recurso": "Demanda por cobro de prestaciones laborales",
+  "libro": null,
+  "caratulado": "112 TRABAJADORES DEL SINDICATO N°6 con SINDICATO DE TRABAJADORES N°6 DE EMPRESA BENITO TAPIA TAPIA y CORPORACION NACIONAL DEL COBRE DIVISION SALVADOR",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Cobro de prestaciones laborales - Cuota sindical extraordinaria",
+  "legislacion": "Artículos 234, 258, 260, 262 del Código del Trabajo; Artículo 1698 del Código Civil; Artículo 144 del Código de Procedimiento Civil",
+  "parte_recurrente": "112 trabajadores socios del Sindicato N°6 Benito Tapia Tapia",
+  "parte_recurrida": "Sindicato de Trabajadores N°6 de Empresa Benito Tapia Tapia y Corporación Nacional del Cobre División Salvador",
+  "resumen_documento": "Se rechaza la demanda de 112 trabajadores que solicitaban la devolución de $100.000 descontados del bono por término de conflicto para pagar asesoría jurídica del sindicato. El tribunal acoge la excepción de falta de legitimación activa, señalando que solo el Directorio Sindical puede cuestionar decisiones asamblearias que cumplieron requisitos legales.",
+  "ministros": ["Juez redactor: Roberto Gahona Rojas"],
+  "voto_disidente": false,
+  "observaciones": "No se condena en costas al demandante por estimar motivo plausible para litigar. El descuento fue aprobado en asamblea sindical y cumplió todos los requisitos legales para cuota extraordinaria."
+}

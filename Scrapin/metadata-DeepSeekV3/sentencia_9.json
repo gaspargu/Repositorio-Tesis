@@ -1,0 +1,21 @@
+{
+  "corte": "Juzgado de Letras de Colina",
+  "sala": "",
+  "fecha": "dieciséis de septiembre de dos mil veinticinco",
+  "rol": "T-98-2024",
+  "ciudad": "Colina",
+  "tipo_recurso": "Procedimiento de Tutela Laboral",
+  "libro": "",
+  "caratulado": "Elizabeth Gisela Pizarra Castillo contra Corporación Municipal de Desarrollo Social de Colina",
+  "accion_documento": "Acoger parcialmente",
+  "materia": "Laboral",
+  "subMateria": "Tutela laboral por acoso laboral",
+  "legislacion": "Artículos 1, 2, 12, 425 y siguientes, 453, 454, 485 y siguientes del Código del Trabajo; Artículo 1698 del Código Civil; Artículo 19 N°1 de la Constitución Política",
+  "parte_recurrente": "Elizabeth Gisela Pizarra Castillo",
+  "parte_recurrida": "Corporación Municipal de Desarrollo Social de Colina",
+  "resumen_documento": "Se acoge tutela laboral por vulneración de integridad psíquica debido a acoso laboral. Se ordena reincorporación al Liceo Bicentenario, pago de $3.000.000 por daño moral y publicación de sentencia en sitio web de la institución.",
+  "ministros": ["FELIPE DANIEL GARCÍA RIFFO"],
+  "ministro_redactor": "FELIPE DANIEL GARCÍA RIFFO",
+  "voto_disidente": false,
+  "observaciones": "El tribunal estableció vulneración de garantías constitucionales por acoso laboral comprobado mediante pruebas médicas y testimoniales, pero rechazó pretensiones económicas adicionales por no acreditarse menoscabo remuneracional."
+}

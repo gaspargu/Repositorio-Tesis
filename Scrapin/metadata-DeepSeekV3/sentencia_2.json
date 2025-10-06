@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Talca",
+  "sala": null,
+  "fecha": "22 de septiembre de 2025",
+  "rol": "I-44-2025",
+  "ciudad": "Talca",
+  "tipo_recurso": "Reclamo",
+  "libro": null,
+  "caratulado": "ISS SERVICIOS GENERALES S.A. con INSPECCION PROVINCIAL DEL TRABAJO TALCA",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Reclamo de multa administrativa",
+  "legislacion": "Artículos 502, 503, 511, 512, 506 ter del Código del Trabajo; Artículos 415, 420, 453, 454, 456, 457, 459 del Código del Trabajo; Artículo 23 del DFL N° 2 de 1967",
+  "parte_recurrente": "ISS SERVICIOS GENERALES S.A.",
+  "parte_recurrida": "INSPECCION PROVINCIAL DEL TRABAJO TALCA",
+  "resumen_documento": "Se rechaza el reclamo de ISS Servicios Generales S.A. contra multa por no consignar por escrito la modificación del lugar de trabajo de una trabajadora. La empresa alegó error de hecho y cumplimiento normativo, pero el tribunal sostuvo que al optar por la reconsideración administrativa renunció al reclamo judicial directo, y no acreditó error ni corrección de la infracción.",
+  "ministros": ["Jueza redactora: Carolina Ivonne Saavedra Morales"],
+  "voto_disidente": false,
+  "observaciones": "Se condena en costas a la reclamante por $300.000. La multa fue impuesta por infracción al artículo 11 en relación con el artículo 506 del Código del Trabajo, al modificarse el lugar de trabajo sin documentación adecuada."
+}

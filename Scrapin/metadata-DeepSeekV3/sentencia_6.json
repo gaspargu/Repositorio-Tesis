@@ -1,0 +1,20 @@
+{
+  "corte": "Segundo Juzgado de Letras del Trabajo de Santiago",
+  "sala": "Sala 14",
+  "fecha": "15 de septiembre de 2025",
+  "rol": "O-1463-2025",
+  "ciudad": "Santiago",
+  "tipo_recurso": "Procedimiento Ordinario",
+  "libro": null,
+  "caratulado": "CLAUDIA LORENA VILLARROEL AVILÉS con SOCOFIN S.A.",
+  "accion_documento": "Acoger Parcialmente",
+  "materia": "Laboral",
+  "subMateria": "Despido improcedente",
+  "legislacion": "Artículos 1, 42, 63, 67, 161, 162, 163, 168, 172, 173, 420, 423, 446, 453, 454 del Código del Trabajo; Artículo 13 de la Ley N°14.908",
+  "parte_recurrente": "CLAUDIA LORENA VILLARROEL AVILÉS",
+  "parte_recurrida": "SOCOFIN S.A.",
+  "resumen_documento": "Se acoge parcialmente la demanda declarando el despido improcedente. Se condena al pago del recargo por despido injustificado, devolución de descuento AFC y diferencia de feriado legal. La demandada no compareció a la audiencia.",
+  "ministros": ["Jueza redactora: Susana Verdugo Pérez"],
+  "voto_disidente": false,
+  "observaciones": "Sentencia pronunciada íntegramente en audiencia. Demandada incompareciente. Cada parte soporta sus costas. Montos condenatorios: $3.161.124 (recargo), $2.339.621 (AFC), $1.468.705 (feriado)."
+}

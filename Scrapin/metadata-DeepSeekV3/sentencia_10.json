@@ -1,0 +1,21 @@
+{
+  "corte": "Primer Juzgado de Letras del Trabajo de Santiago",
+  "sala": "",
+  "fecha": "quince de septiembre de dos mil veinticinco",
+  "rol": "O-2388-2024 (acumulado O-2614-2024)",
+  "ciudad": "Santiago",
+  "tipo_recurso": "Demanda laboral por despido indirecto",
+  "libro": "",
+  "caratulado": "Claudia Cutolo Zerpa y Jornellys Paduany Manzanares contra Gestión y Administración Cenit Ltda.",
+  "accion_documento": "Acoger parcialmente",
+  "materia": "Laboral",
+  "subMateria": "Despido indirecto",
+  "legislacion": "Artículos 1, 2, 42, 45, 63, 71, 160, 162, 171, 425 y siguientes, 453, 454 del Código del Trabajo; Artículo 1698 del Código Civil",
+  "parte_recurrente": "Claudia Cutolo Zerpa y Jornellys Paduany Manzanares",
+  "parte_recurrida": "Gestión y Administración Cenit Ltda.",
+  "resumen_documento": "Se declara ajustado a derecho el auto despido por incumplimientos empresariales: falta de anexos detallados de remuneración variable y imposición fraudulenta de jornada pese a contrato de exclusión. Se ordena pago de indemnizaciones, pero se rechaza semana corrida por no acreditar devengo diario de comisiones.",
+  "ministros": ["Mauricio Guajardo Espinoza"],
+  "ministro_redactor": "Mauricio Guajardo Espinoza",
+  "voto_disidente": false,
+  "observaciones": "El tribunal consideró probados incumplimientos en entrega de anexos remuneracionales y jornada fraudulenta, pero rechazó semana corrida por no acreditar devengo diario de comisiones en ventas inmobiliarias."
+}

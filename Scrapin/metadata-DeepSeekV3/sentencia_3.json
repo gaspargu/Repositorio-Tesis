@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Curicó",
+  "sala": null,
+  "fecha": "22 de septiembre de 2025",
+  "rol": "M-146-2025",
+  "ciudad": "Curicó",
+  "tipo_recurso": "Demanda",
+  "libro": null,
+  "caratulado": "ADOLFREDO JUNIO RONDON SUBERO con CLAUDIO ALEJANDRO SANTELICES GARCÉS",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Nulidad de despido, despido injustificado y cobro de prestaciones laborales",
+  "legislacion": "Artículos 1, 4, 5, 7, 162, 168, 173, 420, 425, 432, 446, 453, 456, 459 del Código del Trabajo",
+  "parte_recurrente": "ADOLFREDO JUNIO RONDON SUBERO",
+  "parte_recurrida": "CLAUDIO ALEJANDRO SANTELICES GARCÉS",
+  "resumen_documento": "Se rechaza la demanda por falta de legitimación pasiva. El trabajador prestó servicios para Comercializadora y Distribuidora SyG Limitada, de la cual el demandado es socio, pero no existió relación laboral directa con él. La botillería del demandado era cliente de la comercializadora, pero no el empleador del actor.",
+  "ministros": ["Juez redactor: Patricio Alfredo Navarro Fierro"],
+  "voto_disidente": false,
+  "observaciones": "No se condena en costas al demandante por estimar que tuvo motivo plausible para litigar. La demanda incluía múltiples pretensiones por nulidad de despido, indemnizaciones, horas extras y beneficios previsionales."
+}

@@ -1,0 +1,21 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Talca",
+  "sala": "",
+  "fecha": "22 de septiembre de 2025",
+  "rol": "RIT N° I-44-2025, RUC N° 25-4-0706024-8",
+  "ciudad": "Talca",
+  "tipo recurso": "Reclamo",
+  "Libro": "",
+  "Caratulado": "ISS Servicios Generales S.A. con Inspección Provincial del Trabajo Talca",
+  "accion_documento": "Rechazar",
+  "materia": "Laboral",
+  "subMateria": "Reclamo de multa administrativa",
+  "legislacion": "Artículos 10, 11, 12, 502, 503, 506, 511, 512 del Código del Trabajo; Artículo 23 del DFL N° 2 de 1967; Artículos 415, 420, 453, 454, 456, 457, 459 del Código del Trabajo",
+  "parte_recurrente": "ISS Servicios Generales S.A.",
+  "parte_recurrida": "Inspección Provincial del Trabajo Talca",
+  "resumen_documento": "El tribunal rechazó el reclamo de ISS Servicios Generales S.A. contra la Inspección del Trabajo de Talca respecto de una multa administrativa por no consignar por escrito la modificación del lugar de trabajo de una trabajadora. La empresa alegaba error de hecho y cumplimiento legal, pero no acreditó formalmente la modificación contractual. Se confirma la multa y se condena en costas a la reclamante.",
+  "ministros": ["Carolina Ivonne Saavedra Morales"],
+  "Ministro redactor": "Carolina Ivonne Saavedra Morales",
+  "voto_disidente": false,
+  "observaciones": "Se condena en costas a la parte reclamante por $300.000."
+}

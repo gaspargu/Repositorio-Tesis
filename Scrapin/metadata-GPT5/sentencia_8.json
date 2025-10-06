@@ -1,0 +1,20 @@
+{
+  "corte": "Juzgado de Letras del Trabajo de Concepción",
+  "sala": "",
+  "fecha": "16 de septiembre de 2025",
+  "rol": "RIT O-251-2025, RUC 25-4-0647270-4",
+  "ciudad": "Concepción",
+  "tipo recurso": "Demanda laboral por despido injustificado o improcedente",
+  "Libro": "",
+  "Caratulado": "Rubilar Luengo, Jessica Marisol con Fisco de Chile - Hospital Naval de Talcahuano Almirante Adriazola",
+  "accion_documento": "Acoger demanda",
+  "materia": "Laboral",
+  "subMateria": "Despido improcedente y devolución de descuentos indebidos",
+  "legislacion": "Artículos 7, 10, 41, 67, 73, 161, 162, 163, 168, 169, 172, 173, 445, 446 a 459 del Código del Trabajo; artículo 1698 del Código Civil; Ley N°19.728 sobre Seguro de Cesantía; Ley N°18.476 sobre Hospitales de las Fuerzas Armadas",
+  "parte_recurrente": "Jessica Marisol Rubilar Luengo",
+  "parte_recurrida": "Fisco de Chile - Hospital Naval de Talcahuano Almirante Adriazola, representado por el Consejo de Defensa del Estado",
+  "resumen_documento": "El tribunal declaró improcedente el despido de Jessica Rubilar del Hospital Naval de Talcahuano, ordenando pagar recargo del 30% sobre indemnización por años de servicio y la devolución del descuento indebido del seguro de cesantía. No se condenó en costas a la demandada por estimarse motivo plausible para litigar.",
+  "ministros": ["Ángela Mabel Hernández Gutiérrez (Jueza Titular)"],
+  "voto_disidente": false,
+  "observaciones": "El tribunal concluyó que la causal de necesidades de la empresa no fue acreditada y que la situación financiera del hospital mostraba resultados positivos en 2024, desvirtuando la justificación del despido."
+}
